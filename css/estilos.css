@@ -14,5 +14,11 @@
     font-size: 20px;
 }
 
+.cursoGit{
+    width: 600px; height: 320px;
+    display: block;
+    margin: auto;
+    border: 2px solid;
+}
 
 
