@@ -4,4 +4,6 @@ Mi nombre es Joel Dominguez Merino,
 tengo 20 años,
 soy estudiante de Ingeniería en Sistemas Computacionales en el ITToluca.
 
+Yo soy Julieta y estoy aqui para aportar al estudio de este curso.
+
 Este cambio es para utilizar git reset --hard o --soft.
