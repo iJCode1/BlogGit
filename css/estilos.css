@@ -14,7 +14,7 @@
     font-size: 20px;
 }
 
-.cursoGit{
+.images{
     width: 600px; height: 320px;
     display: block;
     margin: auto;
@@ -24,12 +24,13 @@
 .limite{
     color:#333;
 }
+
 footer{
     background-color: #333;
     color: aliceblue;
     font-size: 17px;
     position: absolute;
-    bottom:0;
+    bottom:auto;
     width: 100%;
     text-align: center;
 }
