@@ -3,7 +3,7 @@
 Este es un repositorio para aprender a utilizar tanto Git y GitHub.
 Lo aprendido es del [**Curso Profesional de Git y GitHub**](https://platzi.com/cursos/git-github/).
 
-####*¿Que he aprenido a lo largo de estos dias en el curso?*
+¿Que he aprenido a lo largo de estos dias en el curso?
 
 - Crear un Repositorio en Git.
 - Flujo de trabajo en Git.
