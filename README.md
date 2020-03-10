@@ -16,6 +16,7 @@ Lo aprendido es del [**Curso Profesional de Git y GitHub**](https://platzi.com/c
 - Hacer Pull Request.
 - Ignorar archivos o carpetas con .gitignore
 - Mejorar mi Readme.md.
+- Git stash para guardar los cambios termporales.
 - Y lo que aun falta...
 
 > El limite lo pones tu..
