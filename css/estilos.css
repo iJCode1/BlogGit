@@ -44,6 +44,8 @@ footer {
   align-items: center;
   height: 15em;
   background-image: url("/assets/images/bg-joel.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .hero--title {
