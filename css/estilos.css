@@ -1,36 +1,56 @@
-.title{
-    text-align: center;
-    color: #75CB00;
-    font-size: 17px;
-    border: chartreuse 3px solid;
-    margin-right: 120px;
-    margin-left: 120px;
+.title {
+  text-align: center;
+  color: #75cb00;
+  font-size: 17px;
+  border: chartreuse 3px solid;
+  margin-right: 120px;
+  margin-left: 120px;
 }
 
-.contenido{
-    color: #5A6263;
-    text-align: justify;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20px;
+.contenido {
+  color: #5a6263;
+  text-align: justify;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 20px;
 }
 
-.images{
-    width: 600px; height: 320px;
-    display: block;
-    margin: auto;
-    border: 2px solid #333;
+.images {
+  width: 600px;
+  height: 320px;
+  display: block;
+  margin: auto;
+  border: 2px solid #333;
 }
 
-.limite{
-    color:#333;
+.limite {
+  color: #333;
 }
 
-footer{
-    background-color: #333;
-    color: aliceblue;
-    font-size: 17px;
-    position: absolute;
-    bottom:auto;
-    width: 100%;
-    text-align: center;
+footer {
+  background-color: #333;
+  color: aliceblue;
+  font-size: 17px;
+  position: absolute;
+  bottom: auto;
+  width: 100%;
+  text-align: center;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  align-items: center;
+  height: 15em;
+  background-image: url("/assets/images/bg-joel.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero--title {
+  display: inherit;
+  color: white;
+  justify-items: center;
+  font-family: system;
 }
